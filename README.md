@@ -9,7 +9,8 @@ with a single command.
 > Originally a university project (*Software Technologies*, Department of Informatics, Ionian University),
 > developed by Dimitris Konispoliatis and Aikaterini Analyti. Extended into a tested, containerised application.
 
-<!-- Add screenshots: ![UMAP](docs/umap.png) ![DEG table](docs/deg.png) -->
+<img width="823" height="347" alt="image" src="https://github.com/user-attachments/assets/e00a8939-1ebf-49ba-8e95-c2d669a70d2f" />
+
 
 ## Features
 
