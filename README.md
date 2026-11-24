@@ -9,7 +9,9 @@ with a single command.
 > Originally a university project (*Software Technologies*, Department of Informatics, Ionian University),
 > developed by Dimitris Konispoliatis and Aikaterini Analyti. Extended into a tested, containerised application.
 
-<img width="823" height="347" alt="image" src="https://github.com/user-attachments/assets/e00a8939-1ebf-49ba-8e95-c2d669a70d2f" />
+<img width="859" height="686" alt="image_2025-05-26_211007679" src="https://github.com/user-attachments/assets/e2848b66-5b6f-4902-bbe1-0243e9b9da45" />
+<img width="857" height="466" alt="leidencluster" src="https://github.com/user-attachments/assets/149d6f59-ead4-49de-97c6-f7155e2dc5ac" />
+
 
 
 ## Features
